@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">pract11</string>
+    <string name="hello">Здравствуйте!</string>
+    <string name="choice">Выберите действие:</string>
+    <string name="sozdat">Запомнить книгу</string>
+    <string name="spisok">Показать список книг</string>
+    <string name="nazvanie">Название книги:</string>
+    <string name="avtori">Автор:</string>
+    <string name="kolvo">Количество страниц:</string>
+    <string name="zapomnit_button">Запомнить</string>
+    <string name="spis">Список книг</string>
+    <string name="zhanr">Жанр:</string>
+    <string name="delete">Удалить</string>
+    <string name="delete1">Удалить книгу</string>
+    <string name="id">ID:</string>
+    <string name="infoKniga">Информация о книге:</string>
+    <string name="izmenit">Изменить книгу</string>
+</resources>
